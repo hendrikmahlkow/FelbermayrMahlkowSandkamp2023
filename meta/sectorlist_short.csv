@@ -1,0 +1,66 @@
+number;code;description
+1;PDR;Rice
+2;WHT;Wheat
+3;GRO;Other Grains
+4;V_F;Veg & Fruit
+5;OSD;Oil Seeds
+6;C_B;Cane & Beet
+7;PFB;Fibres crops
+8;OCR;Other Crops
+9;CTL;Cattle
+10;OAP;Other Animal Products
+11;RMK;Raw milk
+12;WOL;Wool
+13;FRS;Forestry
+14;FSH;Fishing
+15;COA;Coal
+16;OIL;Oil
+17;GAS;Gas
+18;OXT;Other Mining Extraction
+19;CMT;Cattle Meat
+20;OMT;Other Meat
+21;VOL;Vegetable Oils
+22;MIL;Dairy Products
+23;PCR;Processed Rice
+24;SGR;Sugar & Molasses
+25;OFD;Other Food
+26;B_T;Beverages & Tobacco
+27;TEX;Manufacture of Textiles
+28;WAP;Wearing Apparel
+29;LEA;Leather Manufacture
+30;LUM;Lumber
+31;PPP;Paper & Paper Products
+32;P_C;Petroleum & Coke
+33;CHM;Chemical Products
+34;BPH;Pharmaceuticals
+35;RPP;Rubber & Plastics Products
+36;NMM;Other Mineral Products
+37;I_S;Iron & Steel
+38;NFM;Non-Ferrous Metals
+39;FMP;Fabricated Metal Products
+40;ELE;Computer, Electronic & Optical Products
+41;EEQ;Electrical Equipment
+42;OME;Machinery & Equipment
+43;MVH;Motor Vehicles
+44;OTN;Other Transport Equipment
+45;OMF;Furniture
+46;ELY;Electricity
+47;GDT;Gas Manufacture
+48;WTR;Water Supply
+49;CNS;Construction
+50;TRD;Wholesale & Retail Trade
+51;AFS;Accommodation, Food & Service Activities
+52;OTP;Land Transport
+53;WTP;Water Transport
+54;ATP;Air Transport
+55;WHS;Warehousing
+56;CMN;Information & Communication
+57;OFI;Other Financial Intermediation
+58;INS;Insurance
+59;RSA;Real Estate Activities
+60;OBS;Other Business Services
+61;ROS;Recreation & Other Services
+62;OSG;Other Services (Government)
+63;EDU;Education
+64;HHT;Human Health & Social Work
+65;DWE;Dwellings
